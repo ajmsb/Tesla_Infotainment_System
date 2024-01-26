@@ -1,0 +1,96 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CMakeLists.txt</file>
+        <file>main.cpp</file>
+        <file>qml.qrc</file>
+        <file>qml/components/Container.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/components/LeftScreen.qml</file>
+        <file>qml/components/BottomMenu.qml</file>
+        <file>qml/components/MapScreen.qml</file>
+        <file>qml/components/MusicBar.qml</file>
+        <file>assets/vectors/displaytesla.png</file>
+        <file>assets/vectors/brightnesstesla.png</file>
+        <file>assets/vectors/adjustmentstesla.png</file>
+        <file>assets/vectors/mirrortesla.png</file>
+        <file>assets/vectors/steering wheel-smalltesla.png</file>
+        <file>assets/vectors/quick controlstesla.png</file>
+        <file>assets/vectors/lightstesla.png</file>
+        <file>assets/vectors/safety and securitytesla.png</file>
+        <file>assets/vectors/servicetesla.png</file>
+        <file>assets/vectors/gloveboxtesla.png</file>
+        <file>assets/vectors/wipertesla.png</file>
+        <file>assets/vectors/destinationtesla.png</file>
+        <file>assets/vectors/charging stationtesla.png</file>
+        <file>assets/vectors/navicontesla.png</file>
+        <file>assets/vectors/model3-icon-smalltesla.png</file>
+        <file>assets/vectors/model3-icontesla.png</file>
+        <file>assets/vectors/defrosttesla.png</file>
+        <file>assets/vectors/heatertesla.png</file>
+        <file>assets/vectors/seat.png</file>
+        <file>assets/vectors/seattesla.png</file>
+        <file>assets/vectors/arrow.png</file>
+        <file>assets/vectors/arrowDown.png</file>
+        <file>assets/vectors/fantesla.png</file>
+        <file>assets/vectors/musictesla.png</file>
+        <file>assets/vectors/phonetesla.png</file>
+        <file>assets/vectors/volumetesla.png</file>
+        <file>assets/vectors/Tesla Logo.png</file>
+        <file>assets/vectors/headlights-smalltesla.png</file>
+        <file>assets/vectors/batterytesla.png</file>
+        <file>assets/vectors/Speed Limittesla.png</file>
+        <file>assets/vectors/headlightstesla.png</file>
+        <file>assets/vectors/tire pressuretesla.png</file>
+        <file>assets/vectors/Cruise Settingtesla.png</file>
+        <file>assets/vectors/cruise controltesla.png</file>
+        <file>assets/vectors/steering wheeltesla.png</file>
+        <file>assets/vectors/cameratesla.png</file>
+        <file>assets/vectors/powertesla.png</file>
+        <file>assets/vectors/microphonetesla.png</file>
+        <file>assets/vectors/locktesla.png</file>
+        <file>assets/vectors/bluetoothtesla.png</file>
+        <file>assets/vectors/cell signaltesla.png</file>
+        <file>assets/vectors/alerttesla.png</file>
+        <file>assets/vectors/hearttesla.png</file>
+        <file>assets/vectors/expand musictesla.png</file>
+        <file>assets/vectors/searchtesla.png</file>
+        <file>assets/vectors/tracktesla.png</file>
+        <file>assets/vectors/play pausetesla.png</file>
+        <file>assets/vectors/minustesla.png</file>
+        <file>assets/vectors/exittesla.png</file>
+        <file>assets/vectors/plustesla.png</file>
+        <file>assets/vectors/navigate icontesla.png</file>
+        <file>assets/vectors/right turntesla.png</file>
+        <file>assets/vectors/left turntesla.png</file>
+        <file>assets/vectors/right turn - 4 waytesla.png</file>
+        <file>assets/vectors/dragmetesla.png</file>
+        <file>assets/vectors/arrowUp.png</file>
+        <file>assets/vectors/seatRight.png</file>
+        <file>assets/vectors/model3-icon.png</file>
+        <file>assets/vectors/battery.png</file>
+        <file>assets/vectors/minus.png</file>
+        <file>assets/vectors/plus.png</file>
+        <file>assets/vectors/radio.png</file>
+        <file>assets/vectors/windshield.png</file>
+        <file>assets/vectors/defrost.png</file>
+        <file>assets/vectors/music.png</file>
+        <file>assets/vectors/car.png</file>
+        <file>assets/vectors/right-arrow-angle.png</file>
+        <file>assets/vectors/left-arrow.png</file>
+        <file>assets/vectors/up-arrow-in-square-interface-button.png</file>
+        <file>assets/vectors/volume-up-interface-symbol.png</file>
+        <file>assets/vectors/toys.png</file>
+        <file>assets/vectors/lock-open-solid.svg</file>
+        <file>assets/vectors/lock-solid.svg</file>
+        <file>assets/vectors/sedan-car-front.png</file>
+        <file>assets/vectors/windscreen.png</file>
+        <file>assets/vectors/arrow-1.png</file>
+        <file>assets/vectors/spotify.png</file>
+        <file>assets/images/album.jpeg</file>
+        <file>controllers/functions.qml</file>
+        <file>controllers/funcs.js</file>
+        <file>qml/script.js</file>
+        <file>assets/images/tesla_car.png</file>
+        <file>assets/vectors/model 3.png</file>
+    </qresource>
+</RCC>
