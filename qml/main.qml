@@ -13,7 +13,7 @@ Window {
     color: "#00000000"
 
     //        remove title window
-    //    flags: Qt.SplashScreen | Qt.FramelessWindowHint
+    flags: Qt.SplashScreen | Qt.FramelessWindowHint
     Container {
         id: container
     }
